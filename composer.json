@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-collateral",
+    "name": "megamitch/mot-collateral",
     "description": "Collateral module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "collateral",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Collateral/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
